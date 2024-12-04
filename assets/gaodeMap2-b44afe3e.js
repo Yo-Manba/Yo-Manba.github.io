@@ -1,0 +1,1 @@
+import{bS as a,bT as e,aK as s,u as o}from"./index-0dddc813.js";const d=Object.assign({name:"gaodeMap2"},{__name:"gaodeMap2",setup:d=>(a(),e(),(a,e)=>(s(),o("div",null,"GaodeMap")))});export{d as default};
